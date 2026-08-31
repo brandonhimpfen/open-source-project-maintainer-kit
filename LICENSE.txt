@@ -1,0 +1,51 @@
+OPEN SOURCE PROJECT MAINTAINER KIT
+CUSTOMER LICENCE
+Version 1.0
+
+Copyright © 2026 Brandon Himpfen. All rights reserved.
+
+This licence applies to the Open Source Project Maintainer Kit itself. It is a commercial template licence and is not an open source software licence.
+
+1. GRANT OF LICENCE
+
+Subject to these terms, the purchaser receives a non-exclusive, non-transferable licence to use, copy, edit, and adapt the files in this kit for the purchaser's own projects and for projects the purchaser is authorized to maintain.
+
+2. PERMITTED PUBLICATION
+
+The purchaser may publish customized versions of individual templates as part of the documentation or repository materials of projects covered by Section 1. This permission includes public open source repositories.
+
+The purchaser may remove the kit's branding, copyright notice, purchaser instructions, and references to this commercial template licence from customized project-facing template files when publishing those files as part of such a project.
+
+3. INTERNAL USE
+
+The purchaser may make reasonable working and backup copies for their own use and may share working copies with members of their project team solely for maintaining an authorized project.
+
+4. RESTRICTIONS
+
+The purchaser may not:
+
+(a) resell, sublicense, rent, license, or commercially redistribute this kit, whether modified or unmodified, as a template pack, toolkit, downloadable product, or substantially similar competing product;
+
+(b) distribute the complete original kit or substantially all of its files as a standalone collection;
+
+(c) represent the original kit as their own authored commercial product; or
+
+(d) use this licence as the software licence for an open source project merely because the templates are used in that project.
+
+5. PROJECT CONTENT
+
+This licence does not grant rights to any third-party trademarks, software, documentation, or other material that a purchaser may add to the templates. The purchaser is responsible for rights to their own project content.
+
+6. NO PROFESSIONAL ADVICE OR WARRANTY
+
+The kit is provided as general-purpose template material. It is provided "as is" without warranties of any kind to the extent permitted by applicable law. It does not constitute legal, cybersecurity, regulatory, or other professional advice.
+
+7. TERMINATION
+
+This licence terminates if the purchaser materially breaches its terms and does not cure the breach where cure is reasonably possible. Copies already lawfully incorporated into public project documentation before termination are not required to be removed solely because of termination.
+
+8. ENTIRE PRODUCT LICENCE
+
+This file states the licence supplied by the seller for the kit. Nothing in it changes the licence of the purchaser's software project or third-party material.
+
+For licensing questions about this product, use the seller contact information provided on the Gumroad product page.
